@@ -1,6 +1,6 @@
 import React from 'react'
 import {useLottie, useLottieInteractivity } from "lottie-react"
-import confetti from "../assets/3314.json"
+import confetti from "../assets/5322668-hd_1920_1080_30fps.mp4.lottie (1).json"
 const style = {
     height:800,
 }
