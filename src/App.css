@@ -1,0 +1,11 @@
+body
+{
+  height: 500vh;
+  margin: 0;
+  padding: 0;
+}
+.lottie-container
+{
+  height: fit-content;
+  position: fixed;
+}
